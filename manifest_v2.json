@@ -1,0 +1,215 @@
+{
+  "item": {
+    "id": "com.komoridev.projectile",
+    "restype": "quick_app",
+    "name": "抛",
+    "description": "抛 | 极简物理，弧线运动\n\n小球绕环转动，点按沿切线抛出。可以落回同一个环继续，不重复加分。接到前方新环按前进距离计分，落出边界结束\n\n该游戏参考 Fanye Games 推出的游戏《抛》。本项目为独立实现，尽可能还原其清新治愈的风格，为玩家带来独特的腕上体验",
+    "preview": [
+      "media/cover.png",
+      "media/miband10.png",
+      "media/miband9pro.png",
+      "media/redmiwatch5.png",
+      "media/redmiwatch5-replay.png",
+      "media/xiaomiwatchs5.png"
+    ],
+    "icon": "media/icon.png",
+    "cover": "media/cover.png",
+    "author": [
+      {
+        "name": "KomoriDev",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [
+    {
+      "title": "官群",
+      "url": "https://qm.qq.com/q/sDpKuh6XLi",
+      "icon": "chat-circle"
+    },
+    {
+      "title": "请杯咖啡",
+      "url": "https://afdian.com/a/komoridev",
+      "icon": "link-simple"
+    }
+  ],
+  "downloads": {
+    "xmrw5": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.komoridev.projectile.release.1.0.0.rpk",
+      "versionCode": 1,
+      "updatelogs": [
+        {
+          "version": "1.0.0",
+          "content": "- 🎉 初次见面"
+        }
+      ]
+    },
+    "xmrw5xring": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.komoridev.projectile.release.1.0.0.rpk",
+      "versionCode": 1,
+      "updatelogs": [
+        {
+          "version": "1.0.0",
+          "content": "- 🎉 初次见面"
+        }
+      ]
+    },
+    "xmrw6": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.komoridev.projectile.release.1.0.0.rpk",
+      "versionCode": 1,
+      "updatelogs": [
+        {
+          "version": "1.0.0",
+          "content": "- 🎉 初次见面"
+        }
+      ]
+    },
+    "xmb10": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.komoridev.projectile.release.1.0.0.rpk",
+      "versionCode": 1,
+      "updatelogs": [
+        {
+          "version": "1.0.0",
+          "content": "- 🎉 初次见面"
+        }
+      ]
+    },
+    "xmb10nfc": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.komoridev.projectile.release.1.0.0.rpk",
+      "versionCode": 1,
+      "updatelogs": [
+        {
+          "version": "1.0.0",
+          "content": "- 🎉 初次见面"
+        }
+      ]
+    },
+    "xmb10p": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.komoridev.projectile.release.1.0.0.rpk",
+      "versionCode": 1,
+      "updatelogs": [
+        {
+          "version": "1.0.0",
+          "content": "- 🎉 初次见面"
+        }
+      ]
+    },
+    "xmb11": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.komoridev.projectile.release.1.0.0.rpk",
+      "versionCode": 1,
+      "updatelogs": [
+        {
+          "version": "1.0.0",
+          "content": "- 🎉 初次见面"
+        }
+      ]
+    },
+    "xmb11nfc": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.komoridev.projectile.release.1.0.0.rpk",
+      "versionCode": 1,
+      "updatelogs": [
+        {
+          "version": "1.0.0",
+          "content": "- 🎉 初次见面"
+        }
+      ]
+    },
+    "xmb9": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.komoridev.projectile.release.1.0.0.rpk",
+      "versionCode": 1,
+      "updatelogs": [
+        {
+          "version": "1.0.0",
+          "content": "- 🎉 初次见面"
+        }
+      ]
+    },
+    "xmb9p": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.komoridev.projectile.release.1.0.0.rpk",
+      "versionCode": 1,
+      "updatelogs": [
+        {
+          "version": "1.0.0",
+          "content": "- 🎉 初次见面"
+        }
+      ]
+    },
+    "xmws3": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.komoridev.projectile.release.1.0.0.rpk",
+      "versionCode": 1,
+      "updatelogs": [
+        {
+          "version": "1.0.0",
+          "content": "- 🎉 初次见面"
+        }
+      ]
+    },
+    "xmws4xring": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.komoridev.projectile.release.1.0.0.rpk",
+      "versionCode": 1,
+      "updatelogs": [
+        {
+          "version": "1.0.0",
+          "content": "- 🎉 初次见面"
+        }
+      ]
+    },
+    "xmws441": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.komoridev.projectile.release.1.0.0.rpk",
+      "versionCode": 1,
+      "updatelogs": [
+        {
+          "version": "1.0.0",
+          "content": "- 🎉 初次见面"
+        }
+      ]
+    },
+    "xmws4": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.komoridev.projectile.release.1.0.0.rpk",
+      "versionCode": 1,
+      "updatelogs": [
+        {
+          "version": "1.0.0",
+          "content": "- 🎉 初次见面"
+        }
+      ]
+    },
+    "xmws541": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.komoridev.projectile.release.1.0.0.rpk",
+      "versionCode": 1,
+      "updatelogs": [
+        {
+          "version": "1.0.0",
+          "content": "- 🎉 初次见面"
+        }
+      ]
+    },
+    "xmws5": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.komoridev.projectile.release.1.0.0.rpk",
+      "versionCode": 1,
+      "updatelogs": [
+        {
+          "version": "1.0.0",
+          "content": "- 🎉 初次见面"
+        }
+      ]
+    }
+  },
+  "ext": {}
+}
